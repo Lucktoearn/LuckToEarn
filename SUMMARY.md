@@ -6,10 +6,10 @@
 
 * [📍 Initial Point](overview/initial-point.md)
 * [🍀 Luck](overview/luck.md)
-* [♠ Tickets](overview/tickets.md)
-* [♥ Ticket Office](overview/ticket-office.md)
-* [♣ Monetization](overview/monetization.md)
-* [♦ Initial Offer](overview/initial-offer.md)
+* [🍀 Tickets](overview/tickets.md)
+* [☘ Ticket Office](overview/ticket-office.md)
+* [🍀 Monetization](overview/monetization.md)
+* [☘ Initial Offer](overview/initial-offer.md)
 
 ## TOKENOMICS
 
