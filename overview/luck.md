@@ -17,5 +17,6 @@ Our investors will choose a sequence of numbers, on which you wish to bet. The w
 
 ## ☘️Security
 
-*
+* [x] Always prioritizing transparency between developers and your investors, thanks to a random number generator solution, where it is determined standards for smart contracts and off-chain systems require a cryptographically secure, transparent, and proven fair source of randomness.
+* [x] Every investor's information is linked to your portfolio, which facilitates the identification of the winners and especially the sending of the prizes, where it is automated and free of fiscal bureaucracy, all this through the practice used on the web3
 
