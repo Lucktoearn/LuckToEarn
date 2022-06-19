@@ -8,15 +8,14 @@
 * [🍀 Luck](overview/luck.md)
 * [🚀 Incentives](overview/incentives.md)
 * [🌟 Tickets](overview/tickets.md)
-* [☘ Partners](overview/partners.md)
+* [☘ Partners](overview/ticket-office.md)
 
 ## TOKENOMICS
 
-* [🪙 Token LUCK](tokenomics/token-luck.md)
-* [⚙ Allocation & Unlocking Schedule](tokenomics/allocation-and-unlocking-schedule.md)
+* [🪙 Token LUCK](tokenomics/token-lte.md)
 * [🔐 Unlock](tokenomics/unlock.md)
 * [🔗 Allocation](tokenomics/allocation.md)
-* [💲 Fees](tokenomics/fees.md)
+* [✅ KYC & Audit](tokenomics/kyc-and-audit.md)
 * [🛣 Roadmap](tokenomics/roadmap.md)
 
 ## sOCIAL MEDIA
