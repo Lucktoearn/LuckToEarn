@@ -8,11 +8,11 @@
 * [🍀 Luck](overview/luck.md)
 * [🚀 Incentives](overview/incentives.md)
 * [🌟 Tickets](overview/tickets.md)
-* [☘ Ticket Office](overview/ticket-office.md)
+* [☘ Partners](overview/partners.md)
 
 ## TOKENOMICS
 
-* [🪙 Token LTE](tokenomics/token-lte.md)
+* [🪙 Token LUCK](tokenomics/token-luck.md)
 * [⚙ Allocation & Unlocking Schedule](tokenomics/allocation-and-unlocking-schedule.md)
 * [🔐 Unlock](tokenomics/unlock.md)
 * [🔗 Allocation](tokenomics/allocation.md)
