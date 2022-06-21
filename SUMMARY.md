@@ -8,7 +8,7 @@
 * [🍀 Luck Clovers](overview/luck-clovers.md)
 * [🚀 Incentives](overview/incentives.md)
 * [🌟 Relevant Factors](overview/relevant-factors.md)
-* [☘ Partners](overview/ticket-office.md)
+* [✳ Partners](overview/ticket-office.md)
 
 ## TOKENOMICS
 
