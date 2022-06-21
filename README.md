@@ -11,10 +11,15 @@ The COVID-19 pandemic positively impacted the market as consumers turned more to
 
 Taking all this information into consideration, Luck-to-earn has developed a betting system inside a blockchain, where we will bring our investors transparency and good financial returns. All thanks to the immutable technology and simple features for open auditing of the blockchain.Luck-to-earn's main features:
 
+A decentralized lottery in blockchain for investors with anti-fraud, designed for high stability and global reach.
+
 * Project from the beginning seeking 100% transparency in all aspects;
 * Through the blockchain system, we will have an easy and open audit;
+* A game of chance for the people - owned by the people
 * All financial processes are based on algarithms, whose purpose is to enable and condition our investors with security;
+* No transaction fee when buying tickets;
 * Strong marketing resources, with weekly promotions;
+* Instant payouts
 
 KYC:
 
