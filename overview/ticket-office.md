@@ -1,8 +1,9 @@
 ---
+cover: ../.gitbook/assets/photo_2022-06-21_14-03-14.jpg
 coverY: 0
 ---
 
-# ☘ Partners
+# ✳ Partners
 
 Taking into account an economic mechanics, where marketing leverages the business model, we at LTE have decided to attract investors who use virtual media (social networks) and bring engagement to the sweepstakes, with commissions on top of fees from purchases, it is worth mentioning that the fees are intended for marketing, ecosystem and process improvements.
 
