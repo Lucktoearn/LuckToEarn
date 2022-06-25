@@ -5,7 +5,7 @@ coverY: 0
 
 # 🔗 Allocation
 
-## Total Supply:&#x20;
+## Total Supply: 100.000.000
 
 * [x] **% Burnt**&#x20;
 * [x] **% Presale**&#x20;
@@ -17,5 +17,5 @@ coverY: 0
 
 <!---->
 
-* **3% Buy tax (1,5% Lottery, 0,5% Marketing, 0,5% Liquidity)**
+* **2% Buy tax (1% Lottery, 0,5% Marketing, 0,5% Liquidity)**&#x20;
 * **4% Sell tax (2% Lottery, 1% Marketing, 1% Liquidity)**

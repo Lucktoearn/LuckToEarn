@@ -5,9 +5,9 @@ coverY: 0
 
 # 🪙 Token LTE
 
-**Total Supply: 100.000.000.000**
+**Total Supply: 100.000.000**
 
-Token Symbol: $LTE
+Token Symbol: **$LTE**
 
 Token Standard: BEP-20\
 \-------------------------------------------------------
@@ -23,7 +23,7 @@ Token Standard: BEP-20\
 
 <!---->
 
-* **3% Buy tax (1,5% Lottery, 0,5% Marketing, 0,5% Liquidity)**
+* **2% Buy tax (1% Lottery, 0,5% Marketing, 0,5% Liquidity)**&#x20;
 * **4% Sell tax (2% Lottery, 1% Marketing, 1% Liquidity)**
 
 <!---->
@@ -43,5 +43,8 @@ Audit:
 
 \
 Fairlaunch:\
+\
+Contract official \
+[https://bscscan.com/token/0xdf02fbbb5c7b9801df61c010a899d8157a4bbffe](https://bscscan.com/token/0xdf02fbbb5c7b9801df61c010a899d8157a4bbffe)\
 
 

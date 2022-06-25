@@ -22,10 +22,11 @@ A decentralized lottery in blockchain for investors with anti-fraud, designed fo
 * Strong marketing resources, with weekly promotions;
 * Instant payouts
 
-KYC:
-
+KYC:\
 \
-Audit:
-
+Audit:\
 \
-Fairlaunch:
+Fairlaunch:\
+\
+Contract official: \
+[https://bscscan.com/token/0xdf02fbbb5c7b9801df61c010a899d8157a4bbffe](https://bscscan.com/token/0xdf02fbbb5c7b9801df61c010a899d8157a4bbffe)
