@@ -5,4 +5,5 @@ coverY: 0
 
 # ✅ KYC & Audit
 
-COMMING SOON&#x20;
+AUDIT:\
+[https://github.com/interfinetwork/smart-contract-audits/blob/audit-updates/LuckToEarn\_0xdf02FBbb5C7b9801df61c010A899D8157a4bbFfe.pdf](https://github.com/interfinetwork/smart-contract-audits/blob/audit-updates/LuckToEarn\_0xdf02FBbb5C7b9801df61c010A899D8157a4bbFfe.pdf)

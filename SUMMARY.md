@@ -12,7 +12,7 @@
 
 ## TOKENOMICS
 
-* [🪙 Token LTE](tokenomics/token-lte.md)
+* [🪙 Token LUCK](tokenomics/token-luck.md)
 * [🔐 Unlock](tokenomics/unlock.md)
 * [🔗 Allocation](tokenomics/allocation.md)
 * [✅ KYC & Audit](tokenomics/kyc-and-audit.md)
