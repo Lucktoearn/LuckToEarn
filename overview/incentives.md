@@ -15,5 +15,7 @@ We will have a strategic distribution, where each resource raised will have a be
 * [x] Minimum withdrawal amount: US$ 30
 * [x] &#x20;Bonuses can be converted to LUCK token or withdrawn in USDT
 
+{% embed url="https://youtu.be/peGmPge9TvA" %}
+
 
 

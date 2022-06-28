@@ -22,6 +22,8 @@ A decentralized lottery in blockchain for investors with anti-fraud, designed fo
 * Strong marketing resources, with weekly promotions;
 * Instant payouts
 
+{% embed url="https://www.youtube.com/watch?v=8EtDpgLUFvc" %}
+
 KYC:\
 \
 Audit:\
