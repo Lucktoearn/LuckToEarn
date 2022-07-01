@@ -36,7 +36,8 @@ Token Standard: BEP-20\
 
 {% embed url="https://youtu.be/FUgzmnDELCI" %}
 
-KYC:
+KYC:\
+[https://github.com/interfinetwork/project-kyc-verification/blob/main/LuckToEarn\_KYCCertificate\_InterFi.pdf](https://github.com/interfinetwork/project-kyc-verification/blob/main/LuckToEarn\_KYCCertificate\_InterFi.pdf)
 
 \
 Audit:\
