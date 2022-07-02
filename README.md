@@ -31,6 +31,7 @@ Audit:\
 [https://github.com/interfinetwork/smart-contract-audits/blob/audit-updates/LuckToEarn\_0xdf02FBbb5C7b9801df61c010A899D8157a4bbFfe.pdf](https://github.com/interfinetwork/smart-contract-audits/blob/audit-updates/LuckToEarn\_0xdf02FBbb5C7b9801df61c010A899D8157a4bbFfe.pdf)\
 \
 Fairlaunch:\
+[https://www.pinksale.finance/launchpad/0x0A3f3762fE03e1B54098d5BAc9216bCf1B16c45b?chain=BSC](https://www.pinksale.finance/launchpad/0x0A3f3762fE03e1B54098d5BAc9216bCf1B16c45b?chain=BSC)\
 \
 Contract official: \
 [https://bscscan.com/token/0xdf02fbbb5c7b9801df61c010a899d8157a4bbffe](https://bscscan.com/token/0xdf02fbbb5c7b9801df61c010a899d8157a4bbffe)

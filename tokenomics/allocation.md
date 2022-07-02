@@ -5,17 +5,16 @@ coverY: 0
 
 # 🔗 Allocation
 
-## Total Supply: 100.000.000
+## Total Supply: : 100.000.000
 
-* [x] **% Burnt**&#x20;
-* [x] **% Presale**&#x20;
-* [x] **% Liquidity**&#x20;
-* [x] **% Marketing and Influencers**
-* [x] **% Advisors**
-* [x] **% Lottery**
-* [x] **% Pinksale**
+* [x] **Presale: 56.99%**
+* [x] **Liquidity: 28.48%**
+* [x] **Marketing: 3,39% **_**(Locked)**_
+* [x] **Team & Advisors: 2% **_**(Locked)**_
+* [x] **Lottery: 8% **_**(Locked)**_
+* [x] **Pinksale: 1,14% **_**(Unlocked)**_
 
 <!---->
 
-* **2% Buy tax (1% Lottery, 0,5% Marketing, 0,5% Liquidity)**&#x20;
+* **3% Buy tax (1,5% Lottery, 0,5% Marketing, 0,5% Liquidity)**
 * **4% Sell tax (2% Lottery, 1% Marketing, 1% Liquidity)**
