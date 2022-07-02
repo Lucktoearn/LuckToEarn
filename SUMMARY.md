@@ -26,6 +26,5 @@
 * [😎 Telegram](https://www.google.com.br/)
 * [😘 Twitter](https://www.google.com.br/)
 * [😜 Discord](https://discord.gg/cxPe5uZ6ke)
-* [🥳 Youtube](https://www.youtube.com/channel/UCPKk2BRt51REdfsTWZ6WPbQ)
 * [😗 Medium](https://medium.com/@Luck-to-earn)
 * [🤪 Reddit](https://www.reddit.com/user/Lucktoearn/)

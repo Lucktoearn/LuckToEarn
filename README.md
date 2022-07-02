@@ -22,7 +22,7 @@ A decentralized lottery in blockchain for investors with anti-fraud, designed fo
 * Strong marketing resources, with weekly promotions;
 * Instant payouts
 
-{% embed url="https://www.youtube.com/watch?v=8EtDpgLUFvc" %}
+{% embed url="https://youtu.be/Sbz4KtfYQCQ" %}
 
 KYC:\
 [https://github.com/interfinetwork/project-kyc-verification/blob/main/LuckToEarn\_KYCCertificate\_InterFi.pdf](https://github.com/interfinetwork/project-kyc-verification/blob/main/LuckToEarn\_KYCCertificate\_InterFi.pdf)\
