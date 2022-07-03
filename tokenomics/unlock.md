@@ -9,4 +9,4 @@ The total period for unlocking and distributing the LUCK  tokens to the initial 
 
 Ex: the one who buys  LUCK  in the first batch will be the last to hold the token in his wallet, that is, he will receive the tokens at the 15th da
 
-{% embed url="https://youtu.be/u6gfmPJh-js" %}
+{% embed url="https://youtu.be/nGmPJ_U0T2U" %}

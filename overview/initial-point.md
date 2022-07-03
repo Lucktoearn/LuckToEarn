@@ -14,9 +14,7 @@ The Luck-to-earn project was based on the great difficulty in lottery game syste
 With the great growth of web3, we find in the blockchain the key to the process, because it is through it that we will operate financial protocols and will not have the need for intermediaries. With this we will be decentralized, able to register data and information, 100% transparent and anonymous, thanks to web3.\
 Risks can be reduced by increasing security, transparency, and resilience: fundamental features of blockchain technologies. The Blockchain distributed database transparency by default as information is publicly available with anybody able to view transactions and draws. This ledger of interactions prevents indetectable system tampering. Additionally, any modification to the Smart Contracts Governance is subject to a three-day time-lock of platform features which means any changes are available to 3rd party review before implementation.
 
-{% embed url="https://youtu.be/6L_aJw9sVZE" %}
-
-
+{% embed url="https://youtu.be/FyfSaEEQgmk" %}
 
 
 
