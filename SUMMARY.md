@@ -12,7 +12,8 @@
 
 ## TOKENOMICS
 
-* [🪙 Token LUCK](tokenomics/token-luck.md)
+* [🪙 Token LUCK](tokenomics/token-luck/README.md)
+  * [💵 Staking](tokenomics/token-luck/staking.md)
 * [🔐 Unlock](tokenomics/unlock.md)
 * [🔗 Allocation](tokenomics/allocation.md)
 * [✅ KYC & Audit](tokenomics/kyc-and-audit.md)
