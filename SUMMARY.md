@@ -23,7 +23,7 @@
 
 * [😉 Linktree](https://linktr.ee/lucktoearn)
 * [🤓 Website](https://www.lucktoearn.app/)
-* [😎 Telegram](https://www.google.com.br/)
+* [😎 Telegram](https://twitter.com/earn\_luck)
 * [😘 Twitter](https://www.google.com.br/)
 * [😜 Discord](https://discord.gg/cxPe5uZ6ke)
 * [😗 Medium](https://medium.com/@Luck-to-earn)
