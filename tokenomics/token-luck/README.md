@@ -21,7 +21,7 @@ Token Standard: BEP-20\
 
 <!---->
 
-* **3% Buy tax (1,5% Lottery, 0,5% Marketing, 0,5% Liquidity)**
+* **2% Buy tax (1% Lottery, 0,5% Marketing, 0,5% Liquidity)**
 * **4% Sell tax (2% Lottery, 1% Marketing, 1% Liquidity)**
 
 <!---->
